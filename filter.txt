@@ -1,0 +1,211 @@
+! 24/09/2019 https://mail.google.com
+mail.google.com###\:13a
+mail.google.com###\:12y
+mail.google.com##.aj5.J-KU-Jg-Zc.J-KU-Jg
+||hangouts.google.com/webchat/u/0/frame2?v=1568006627&pvt=AMP3uWboSOwCh5HgVWHrj85i8uikjcYEZ7TcXKIwixRAe2E5oJ6i0AHSv5CiD2ZGElNfpXCPDGyv3AG_MIO7DQeaEBLmNPoUYg%3D%3D&prop=gmail&hl=en-GB&fid=gtn-roster-iframe-id$subdocument
+mail.google.com##.aZ6.akc
+mail.google.com##.aeP.aeO
+mail.google.com##.aeQ
+mail.google.com###Layer_1
+mail.google.com##.aT5-aOt-I-Jp.brC-dA-I.aT5-aOt-I > .aT5-aOt-I-JX-Jw
+mail.google.com##.brC-aMv-auO.brC-dA-I-Jw-qk.brC-dA-I-Jw
+||www.gstatic.com/images/icons/material/system/1x/arrow_drop_down_white_20dp.png$image
+mail.google.com##.d-Na-Gs.d-Na-axY.d-Na-M7-JX.d-Na-JX-I
+mail.google.com###itamenu
+
+! 13/10/2019 https://myanimelist.net
+myanimelist.net##.border_top > div:nth-of-type(1)
+myanimelist.net##.border_top > div:nth-of-type(2)
+myanimelist.net##.border_top
+myanimelist.net##.mt16.mauto.clearfix > .mal-ad-unit
+myanimelist.net##.btn-mal-service
+myanimelist.net##.mal-ad-unit
+myanimelist.net##.mt8.icon-block.js-sns-icon-container
+myanimelist.net##.left-info-block-manga-store-button
+||cdn.myanimelist.net/images/mtb/Fall_2019_Anime_Banner-4.png$image
+myanimelist.net##.banner-header-anime-straming
+
+! 13/10/2019 https://kitsu.io
+kitsu.io###ember94 > .empty-container
+kitsu.io###ember64 > .empty-container
+
+! 17/10/2019 https://www.health.com
+www.health.com##.gdpr.component
+
+! 19/11/2019 https://www.reddit.com
+www.reddit.com##.premium-banner
+
+! 29/11/2019 https://www.channel4.com
+||cdn.http.anno.channel4.com/m/1/174057/120/5902712/DerryGirls20_1573491490_1591726_23.mp4$media
+
+! 02/01/2020 https://www.nytimes.com
+www.nytimes.com##.ejw0p350.css-f3thta
+www.nytimes.com##.e1x0szx60.css-1uqnipt.expanded-dock.expanded.shown.gdpr
+
+! 15/06/2020 https://www.youtube.com
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+www.youtube.com###chips-below > .ytd-rich-grid-renderer.style-scope
+
+! 23/06/2020 https://www.youtube.com
+www.youtube.com###content > .ytd-rich-section-renderer.style-scope
+
+! 15/07/2020 https://www.youtube.com
+www.youtube.com###chips.ytd-feed-filter-chip-bar-renderer.style-scope
+www.youtube.com###chips
+
+! 30/07/2020 https://www.youtube.com
+www.youtube.com###offer-module > .ytd-watch-next-secondary-results-renderer.style-scope
+
+! 01/08/2020 https://imgur.com
+||s.imgur.com/desktop-assets/desktop-assets/emerald-bg-banner.718b1139482f99c8101b4420b0fe74fb.png$image
+imgur.com##.EmeraldBannerV2.EmeraldBanner
+imgur.com##[href="https://imgur.com/apps"]
+imgur.com##.Footer-app
+
+! 03/08/2020 https://userstyles.org
+||userstyles.org/ui/images/280x294.png$image
+
+! 2020-08-23 https://www.steamgriddb.com
+www.steamgriddb.com###noty_bar_d03a662d-d215-4a66-8d6d-4eb60d8a782a > .noty_body
+www.steamgriddb.com###noty_layout__bottomLeft
+
+! 2020-08-29 https://soundfrancisco.com
+soundfrancisco.com##.k23650-hide.k23650-2.k23650-container
+
+! 2020-09-08 https://www.ign.com
+www.ign.com##.sidebar.jsx-1521347041
+
+! 2020-09-09 https://www.fanatical.com
+www.fanatical.com##.small-usp-bar
+www.fanatical.com##.trustheadline
+
+! 2020-09-09 https://store.steampowered.com
+store.steampowered.com##.home_page_gutter_giftcard
+store.steampowered.com###content_callout
+
+! 2020-09-09 https://www.reddit.com
+www.reddit.com##.happening-now
+
+! 2020-09-19 https://www.youtube.com
+www.youtube.com###chips-wrapper
+
+! 2020-09-28 https://anidb.net
+anidb.net###layout-hint
+
+! 2020-09-29 https://www.wsj.com
+www.wsj.com##.snippet
+
+funimation.com##li[id^="funimation-logo"]
+-live-chat-renderer.style-scope
+
+! 2020-11-06 https://inews.co.uk
+inews.co.uk##.wrapper-3AzfF
+inews.co.uk##.overlay-34_Kj
+inews.co.uk##.article-content.article-padding > .inews__email-signup.row
+
+! 2020-11-20 https://www.youtube.com
+www.youtube.com###input-panel > .yt-live-chat-renderer.style-scope
+
+! 2020-11-22 https://www.scribd.com
+www.scribd.com##.user_dismiss.entered.seo_lightbox.wrapper
+www.scribd.com##.autogen_class_widgets_base.auto__shared_browse_page_promo_module
+www.scribd.com##.auto__doc_page_app_page_body_fixed_viewport_bottom_components
+www.scribd.com##.entered.wrapper__doc_page_webpack_doc_page_body_document_useful
+||s-f.scribdassets.com/images/social_proof/unlimited_access.svg$image
+||s-f.scribdassets.com/images/social_proof/unlimited_access.svg$image
+www.scribd.com###social_proof_root
+www.scribd.com###membership_info_root
+www.scribd.com##.read_free_button.wrapper__filled-button
+
+! 2020-11-26 https://opencritic.com
+opencritic.com##.patreon-modal
+
+! 2020-12-07 https://opencritic.com
+
+! 2020-12-23 https://store.steampowered.com
+!store.steampowered.com##.leftcol > .es_tabs
+
+! 2020-12-24 https://store.steampowered.com
+!store.steampowered.com###game_highlights > .rightcol > div:nth-of-type(1)
+
+! 2020-12-28 https://cyberpunk2077.wiki.fextralife.com
+cyberpunk2077.wiki.fextralife.com##.e-widget-preloader
+
+! 2021-01-16 https://www.bloomberg.com
+www.bloomberg.com##.fence-rendered.yellow__a52dfc47.banner__10d4e47e
+
+! 2021-01-17 https://www.youtube.com
+www.youtube.com##.branding-img-container
+
+! 2021-02-20 https://www.youtube.com
+www.youtube.com###header > .ytd-rich-grid-renderer.style-scope
+
+! 2021-02-24 https://store.steampowered.com
+store.steampowered.com##.es_useful_link
+
+! 2021-03-04 https://www.youtube.com
+www.youtube.com###efyt-controls-button
+www.youtube.com##.ytp-autonav-toggle-button-container
+
+*##+js(set, navigator.plugins, undefined)
+!*##+js(set, navigator.deviceMemory, 4)
+!*##+js(set, navigator.hardwareConcurrency, 4)
+*##+js(set, navigator.maxTouchPoints, 0)
+*##+js(aopr, HTMLCanvasElement.prototype.toDataURL)
+*##+js(aopr, AudioBuffer.prototype.getChannelData)
+*##+js(aopr, WebGLRenderingContext.prototype.getExtension)
+*##+js(aopr, WebGLRenderingContext.prototype.getParameter)
+*##+js(aopr, BaseAudioContext.prototype.createOscillator)
+
+! 2021-04-02 https://opencritic.com
+opencritic.com##div.mt-5.text-center:nth-of-type(3)
+
+fandom.com##[id*="siderail_"][id*="_gamepedia"]
+
+fandom.com###mixed-content-footer
+
+! 2021-04-03 https://myheroacademia.fandom.com
+fandom.com##.wds-global-navigation__search-scope.wds-dropdown
+fandom.com##.wds-global-navigation__user-anon.wds-has-dark-shadow.wds-global-navigation__user-menu.wds-dropdown
+fandom.com##.wds-global-navigation__start-a-wiki
+fandom.com##.wds-global-navigation__links
+fandom.com##.wds-global-navigation__content-bar-left
+fandom.com###WikiaBar
+fandom.com##div.wds-global-footer__column:nth-of-type(4)
+fandom.com##.wds-global-footer__header-logo
+
+! 2021-04-05 https://opencritic.com
+||open.spotify.com/embed-podcast/$subdocument
+
+! 2021-04-11 https://www.curseforge.com
+||media.forgecdn.net/fallback/0.html$subdocument
+
+! 2021-05-29 https://coolors.co
+coolors.co###generator_cad
+coolors.co###sticky-cad
+
+! 2021-06-01 https://www.pixiv.net
+www.pixiv.net##.itWRj.sc-4dn824-0
+
+! 2021-06-02 https://www.twitch.tv
+www.twitch.tv##.channel-leaderboard.gpRRaJ.sc-AxjAm
+
+! 2021-06-04 https://www.speedrun.com
+||gold-splits.speedrun.com/a/b9ae9fa6-61d1-403a-97ce-013499adb6e9$image
+
+! 2021-06-05 https://www.lorenzostanco.com
+www.lorenzostanco.com##.visible.DonateButtons
+
+! 2021-06-08 https://www.youtube.com
+www.youtube.com###top-level-buttons-computed > ytd-button-renderer.size-default.style-default.force-icon-button.ytd-menu-renderer.style-scope:nth-of-type(1)
+
+! 2021-06-09 https://www.fosshub.com
+www.fosshub.com##.ad
+
+www.twitter.com##[data-suggestion-json*=ActivityTweet]
+
+twitch.tv##+js(twitch-videoad)
+
+! 2021-06-14 https://www.ign.com
+www.ign.com##.watch-read-video.jsx-1967256838
+
