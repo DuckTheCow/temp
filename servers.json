@@ -1,0 +1,8 @@
+{
+  "servers": [
+    {
+      "name": "Duckisette",
+      "address": "https://duckisette.onrender.com"
+    }
+  ]
+}
